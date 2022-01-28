@@ -1,6 +1,6 @@
 # PandaCoins
 
-PandaCoins 1.7.x - 1.18.x (v1.0.0)
+**PandaCoins 1.7.x - 1.18.x (v1.0.0)**
 
 **Commands**
 
@@ -10,4 +10,4 @@ PandaCoins 1.7.x - 1.18.x (v1.0.0)
 
 **Requeriments**
 
-	* MongoDB
+	MongoDB
