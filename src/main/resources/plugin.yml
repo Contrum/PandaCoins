@@ -1,0 +1,5 @@
+main: dev.panda.coins.PandaCoins
+name: PandaCoins
+version: ${project.version}
+author: Risas
+website: https://github.com/RisasDev

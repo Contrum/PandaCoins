@@ -1,0 +1,3 @@
+coins-command:
+  your: "&eYou have &7<coins> &ecoins."
+  other: "&e<player>'s has &7<coins> &ecoins."
